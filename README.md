@@ -37,7 +37,7 @@ Sou <strong>Desenvolvedor Backend</strong> e estou cursando Faculdade de <strong
 
 <br>
 <br>
-  <h3 align="center">Muito Obrigado pela Atenção!</h3>
+  <h2 align="center">Muito Obrigado pela Atenção!</h2>
 </p>
 
 #
