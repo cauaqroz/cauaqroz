@@ -1,9 +1,5 @@
 # Cauã R. O. Queiroz
-<p align="justify">
-Olá Meu Nome é <strong>Cauã R. Oliveira Queiroz</strong>
-<br>
 
-Sou <strong>Desenvolvedor Backend</strong> e estou cursando Faculdade de <strong>Desenvolvimento de Softtware Multiplataforma</strong>
 
 
 <picture>
